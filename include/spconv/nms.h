@@ -14,6 +14,7 @@
 
 #ifndef NMS_CPU_H
 #define NMS_CPU_H
+#include <iostream>
 #include <pybind11/pybind11.h>
 // must include pybind11/stl.h if using containers in STL in arguments.
 #include <algorithm>
